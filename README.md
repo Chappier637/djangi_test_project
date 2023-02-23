@@ -1,0 +1,1 @@
+# djangi_test_project
